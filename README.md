@@ -11,8 +11,6 @@ I'm a passionate Full-Stack Developer with a focus on building dynamic and user-
 Hello! I'm Mohammed Jarif, a passionate Full-Stack Developer with a focus on building dynamic, user-friendly web applications. I am proficient in MERN stack (MongoDB, Express.js, React, Node.js) and have experience in creating scalable backend systems, responsive front-end interfaces, and seamless database integrations.
 
 - Currently exploring **Next.js** for building server-side rendered applications.
-- Working on a **tourism website** to help travelers book experiences and explore destinations.
-- Actively contributing to open-source projects and collaborating with developers worldwide.
 - Always learning new technologies and improving my coding skills.
 
 ### 🌐 Socials:
