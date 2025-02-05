@@ -26,4 +26,4 @@ Hello! I'm Mohammed Jarif, a passionate Full-Stack Developer with a focus on bui
 Dhaka, Bangladesh
 
 ## 📧 Email:
-mohammedjarif@example.com
+mohammedjarif10@gmail.com
