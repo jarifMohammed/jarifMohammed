@@ -49,8 +49,9 @@ These are some of the major technologies that I use or have worked on in the pas
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jarifMohammed&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jarifMohammed&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" height="180" alt="GitHub Stats" style="margin-right: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jarifMohammed&layout=compact&langs_count=10&theme=ocean_dark&hide_border=false" height="180" alt="Top Languages" />
 </div>
+
 
 ---
