@@ -18,11 +18,12 @@ I'm a passionate **Full-Stack Developer** with expertise in building dynamic and
 
 📚 **Currently Exploring:**
 - ✅ **Redux** – State management for scalable applications.
-- ✅ **T3 Stack** (Next.js, TypeScript, Prisma, tRPC) – Modern full-stack development.
 - ✅ **SDLC & Design Patterns** – Best practices for software architecture.
 - ✅ **Advanced MongoDB Aggregations** – Optimizing queries for complex data analysis.
+  
 
 📚 **Learning Advanced Concepts:**
+- ✅ **Machine Learning**
 - 🚀 **Microservices Architecture** – Building scalable and modular backend systems.
 - ☁️ **Serverless Functions** – Deploying efficient, cost-effective cloud applications.
 - 🔗 **WebRTC** – Real-time peer-to-peer communication (audio, video, and data).
