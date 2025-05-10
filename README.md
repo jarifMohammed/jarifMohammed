@@ -11,9 +11,6 @@
 ---
 
 ## 💫 About Me:
-
-Okay, I've added database caching skills to the appropriate section. Here's the updated text:
-
 ---
 
 I'm a **Backend Developer**, currently contributing to building robust and scalable server-side applications using **Node.js, Express.js, and MongoDB**. My passion lies in crafting efficient backend systems, and I'm dedicated to continuous learning to evolve into a Senior Backend Developer.
