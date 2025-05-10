@@ -12,23 +12,28 @@
 
 ## 💫 About Me:
 
-I'm a passionate **Full-Stack Developer** with expertise in building dynamic and user-friendly web applications using the **MERN stack (MongoDB, Express.js, React, Node.js)**.
-
-### 🚀 What I Am Doing Now
-
-📚 **Currently Exploring:**
-- ✅ **Redux** – State management for scalable applications.
-- ✅ **SDLC & Design Patterns** – Best practices for software architecture.
-- ✅ **Advanced MongoDB Aggregations** – Optimizing queries for complex data analysis.
-  
-
-📚 **Learning Advanced Concepts:**
-- ✅ **Machine Learning**
-- 🚀 **Microservices Architecture** – Building scalable and modular backend systems.
-- ☁️ **Serverless Functions** – Deploying efficient, cost-effective cloud applications.
-- 🔗 **WebRTC** – Real-time peer-to-peer communication (audio, video, and data).
+Okay, I've added database caching skills to the appropriate section. Here's the updated text:
 
 ---
+
+I'm a **Backend Developer**, currently contributing to building robust and scalable server-side applications using **Node.js, Express.js, and MongoDB**. My passion lies in crafting efficient backend systems, and I'm dedicated to continuous learning to evolve into a Senior Backend Developer.
+
+### 🚀 My Current Focus & Growth Path
+
+📚 **Sharpening My Backend Expertise (In My Current Role):**
+- ✅ **Applying SDLC Principles & Design Patterns:** Building well-structured, maintainable, and scalable backend services.
+- ✅ **Mastering Advanced MongoDB Aggregations:** Optimizing complex queries for high-performance data retrieval and analysis.
+- ✅ **Implementing Database Caching Strategies:** Enhancing application performance and reducing database load through effective caching techniques (e.g., Redis, Memcached).
+- ✅ **Developing & Refining RESTful APIs:** Ensuring robust, secure, and efficient data exchange.
+- ✅ **Improving Code Quality & Performance:** Actively involved in code reviews, testing, and backend optimization.
+
+📚 **Advancing My Skills to Become a Senior Backend Developer:**
+- 🚀 **Microservices Architecture:** Diving deep into designing, building, and deploying scalable and resilient modular backend systems.
+- ☁️ **Serverless Functions & Cloud-Native Technologies:** Exploring efficient, cost-effective deployment strategies for backend services (e.g., AWS Lambda, Azure Functions).
+- 🐳 **Containerization & Orchestration (Docker & Kubernetes):** Learning to package, deploy, and manage applications for improved scalability and reliability.
+- 📈 **System Design & Scalability Patterns:** Studying advanced architectural patterns to design and build high-availability, fault-tolerant systems.
+- 🛡️ **Advanced API Design & Security:** Exploring concepts like GraphQL, API gateways, and robust security best practices for backend development.
+
 
 ## 📫 How to Reach Me
 
