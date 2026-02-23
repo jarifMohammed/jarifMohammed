@@ -53,7 +53,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <div align="center">
   <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jarifMohammed"/></a>
 </p>
 </div>
 
