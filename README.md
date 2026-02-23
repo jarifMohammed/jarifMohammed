@@ -52,7 +52,9 @@ These are some of the major technologies that I use or have worked on in the pas
 ## GitHub Stats
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+  <p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
+</p>
 </div>
 
 
