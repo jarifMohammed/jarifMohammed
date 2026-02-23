@@ -44,7 +44,7 @@ I'm a **Backend Developer**, currently contributing to building robust and scala
 These are some of the major technologies that I use or have worked on in the past:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,mongodb,nextjs,firebase,nodejs,materialui,express,redux,ts,mysql,postgres,graphql,latex,solidity,threejs,vercel,redis,postman,git,github,figma,docker,anaconda,debian,jupyter,npm" alt="Skills" width="80%"/>
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,mongodb,nextjs,firebase,nodejs,express,nestjs,golang,redux,ts,mysql,postgres,graphql,latex,solidity,redis,postman,git,github,docker,anaconda,debian,jupyter,npm" alt="Skills" width="80%"/>
 </div>
 
 ---
