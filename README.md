@@ -18,13 +18,13 @@ I'm a **Backend Developer**, currently contributing to building robust and scala
 ###  My Current Focus & Growth Path
 
  **Sharpening My Backend Expertise (In My Current Role):**
-- ✅ **Applying SDLC Principles & Design Patterns:** Building well-structured, maintainable, and scalable backend services.
-- ✅ **Mastering Advanced MongoDB Aggregations:** Optimizing complex queries for high-performance data retrieval and analysis.
-- ✅ **Implementing Database Caching Strategies:** Enhancing application performance and reducing database load through effective caching techniques (e.g., Redis, Memcached).
-- ✅ **Developing & Refining RESTful APIs:** Ensuring robust, secure, and efficient data exchange.
-- ✅ **Improving Code Quality & Performance:** Actively involved in code reviews, testing, and backend optimization.
+-  **Applying SDLC Principles & Design Patterns:** Building well-structured, maintainable, and scalable backend services.
+-  **Mastering Advanced MongoDB Aggregations:** Optimizing complex queries for high-performance data retrieval and analysis.
+-  **Implementing Database Caching Strategies:** Enhancing application performance and reducing database load through effective caching techniques (e.g., Redis, Memcached).
+-  **Developing & Refining RESTful APIs:** Ensuring robust, secure, and efficient data exchange.
+-  **Improving Code Quality & Performance:** Actively involved in code reviews, testing, and backend optimization.
 
-📚 **Advancing My Skills to Become a Senior Backend Developer:**
+ **Advancing My Skills to Become a Senior Backend Developer:**
 -  **Microservices Architecture:** Diving deep into designing, building, and deploying scalable and resilient modular backend systems.
 -  **Serverless Functions & Cloud-Native Technologies:** Exploring efficient, cost-effective deployment strategies for backend services (e.g., AWS Lambda, Azure Functions).
 -  **Containerization & Orchestration (Docker & Kubernetes):** Learning to package, deploy, and manage applications for improved scalability and reliability.
@@ -34,8 +34,8 @@ I'm a **Backend Developer**, currently contributing to building robust and scala
 
 ##  How to Reach Me
 
-📩 **Email:** mohammedjarif10@gmail.com  
-🔗 **LinkedIn:** [Mohammed Jarif](https://www.linkedin.com/in/mohammed-jarif)
+ **Email:** mohammedjarif10@gmail.com  
+ **LinkedIn:** [Mohammed Jarif](https://www.linkedin.com/in/mohammed-jarif)
 
 ---
 
